@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there, I'm Tín 👋
 
-<!--
-**tindevfs34/tindevfs34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tindevfs34&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=flat&logo=codeigniter" alt="Role" />
+</p>
 
-Here are some ideas to get you started:
+- 🔭 **Current focus:** Building scalable full-stack web applications and microservices architectures.
+- 💼 **Experience:** 6 years of experience across frontend and backend development for enterprise clients.
+- ⚡ **Interests:** Football, Traveling, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `TypeScript`, `JavaScript (ES6+)`, `PHP`, `Go (Golang)` |
+| **Frontend** | `HTML5`, `CSS3`, `Tailwind CSS`, `Vue.js`, `React.js`, `Angular`, `jQuery` |
+| **Backend** | `Laravel`, `NestJS`, `Gin` |
+| **Databases** | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` |
+| **Tools** | `Docker`, `Git (GitLab/GitHub)`, `CI/CD`, `AWS` |
+| **Others** | `RESTful API`, `Microservices`, `Unit Testing` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tindevfs34&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tindevfs34&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
