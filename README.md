@@ -25,8 +25,10 @@
 ---
 
 ### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tindevfs34&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tindevfs34&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tindevfs34&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tindevfs34&theme=radical" alt="Profile Details" />
 </p>
